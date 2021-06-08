@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24783" started-at="2021-06-08T11:56:52Z" finished-at="2021-06-08T11:57:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24783" started-at="2021-06-08T11:56:52Z" finished-at="2021-06-08T11:57:17Z">
+      <class name="endTests.SampleTest">
+        <test-method status="PASS" signature="createReports()[pri:0, instance:endTests.SampleTest@42dafa95]" name="createReports" is-config="true" duration-ms="115" started-at="2021-06-08T11:56:52Z" finished-at="2021-06-08T11:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReports -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:endTests.SampleTest@42dafa95]" name="launchBrowser" is-config="true" duration-ms="5031" started-at="2021-06-08T11:56:52Z" finished-at="2021-06-08T11:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="deleteEmployeeDEtails()[pri:0, instance:endTests.SampleTest@42dafa95]" name="deleteEmployeeDEtails" duration-ms="1344" started-at="2021-06-08T11:56:57Z" finished-at="2021-06-08T11:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployeeDEtails -->
+        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:endTests.SampleTest@42dafa95]" name="getEmployeeDetails" duration-ms="15" started-at="2021-06-08T11:56:59Z" finished-at="2021-06-08T11:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeDetails -->
+        <test-method status="PASS" signature="validationTestAmazon()[pri:0, instance:endTests.SampleTest@42dafa95]" name="validationTestAmazon" duration-ms="17651" started-at="2021-06-08T11:56:59Z" finished-at="2021-06-08T11:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationTestAmazon -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:endTests.SampleTest@42dafa95]" name="quitBrowser" is-config="true" duration-ms="710" started-at="2021-06-08T11:57:16Z" finished-at="2021-06-08T11:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:endTests.SampleTest@42dafa95]" name="flushReports" is-config="true" duration-ms="204" started-at="2021-06-08T11:57:17Z" finished-at="2021-06-08T11:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- endTests.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
